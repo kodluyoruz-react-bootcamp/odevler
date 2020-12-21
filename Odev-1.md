@@ -56,10 +56,12 @@
 - [ ] Bir alt satırda bu fonksiyonu çalıştırın ve gelen sonucu log'layın.
 - [ ] Yazılan kodun build'ini alacak olan npm script'ini yazın. Build, kök dizinde **"dist"** dizinine alınmalıdır.
 
-\
-\
 
->Son teslim tarihi: 26.12.20 - 10:00
+----
+
+
+\
+Son teslim tarihi: 26.12.20 - 10:00
 
 \
 Bol şans :blush:
