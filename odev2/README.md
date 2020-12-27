@@ -12,3 +12,6 @@ Yukarıda paylaşılan ikinci bağlantıda orijinal çalışmada bulunan ancak s
 
 
 > Dosya dizin isimlendirmesini dilediğiniz gibi yapabilirsiniz. 
+
+\
+Kolaylıklar dilerim :)
