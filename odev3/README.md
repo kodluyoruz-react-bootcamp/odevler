@@ -20,4 +20,8 @@ Ekran aşadağı görseldeki gibi olacaktır.
 - [ ] Uygulama [Netlify](https://www.netlify.com/) üzerine deploy edilmelidir.
 - [ ] Uygulama önizleme bağlantısı README dosyasının en üst satırında belirtilmelidir.
 
+
+> Tasarımı dilediğiniz gibi yapabilirsiniz.
+
+
 Kolaylıklar :)
